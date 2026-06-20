@@ -54,4 +54,3 @@ def run_search_agent(query: str) -> dict:
         "query": query,
         "output": final_message
     }
-    
