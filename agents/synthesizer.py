@@ -46,3 +46,4 @@ Now search the store for any additional relevant details, then write the final a
         "agent": "synthesizer",
         "output": result["messages"][-1].content
     }
+    
